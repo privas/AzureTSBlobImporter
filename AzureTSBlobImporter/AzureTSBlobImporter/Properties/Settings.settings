@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AzureTSBlobImporter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AzureConnString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DefaultEndpointsProtocol=https;AccountName=;AccountKey=;EndpointSuffix=core.windows.net</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
